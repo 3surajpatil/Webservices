@@ -7,6 +7,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Message {
 
+	//adding a comment to test the git commit feature.
+	
 	long id;
 	String message;
 	String author;
